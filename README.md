@@ -8,7 +8,7 @@ Accounts:
 * [TryHackMe](https://tryhackme.com/p/kernelsanders)
 
 Repositories:
-* [Party Bucket](k3rn3ls4nd3rs/partybucket) - A bucket for sharing (knowledge share)
+* [Party Bucket](https://github.com/k3rn3ls4nd3rs/partybucket) - A bucket for sharing (knowledge share)
 
 <!---
 k3rn3ls4nd3rs/k3rn3ls4nd3rs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
