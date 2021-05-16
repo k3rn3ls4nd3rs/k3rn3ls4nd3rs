@@ -1,3 +1,4 @@
+About:
 - 👋 Hi, I’m Kernel Sanders, @k3rn3ls4nd3rs
 - 👀 I’m interested in chicken
 - 🌱 I’m currently learning the KFC secret recipe
