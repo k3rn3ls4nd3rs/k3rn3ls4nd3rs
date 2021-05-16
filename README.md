@@ -5,7 +5,7 @@ About:
 - 💞️ I’m looking to collaborate on sharing meals
 
 Accounts:
-* TryHackMe - https://tryhackme.com/p/kernelsanders
+* [TryHackMe](https://tryhackme.com/p/kernelsanders)
 
 Repositories:
 * [Party Bucket](k3rn3ls4nd3rs/partybucket) - A bucket for sharing (knowledge share)
