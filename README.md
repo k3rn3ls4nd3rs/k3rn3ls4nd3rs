@@ -7,7 +7,7 @@ About:
 Accounts:
 * [TryHackMe](https://tryhackme.com/p/kernelsanders)
 
-Repositories:
+Public Repositories:
 * [Party Bucket](https://github.com/k3rn3ls4nd3rs/partybucket) - A bucket for sharing (knowledge share)
 
 <!---
