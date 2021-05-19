@@ -6,6 +6,7 @@ About:
 
 Accounts:
 * [TryHackMe](https://tryhackme.com/p/kernelsanders)
+* [CodinGame](https://www.codingame.com/profile/6b41dedf7b1e0999ddd098042233db086919434)
 
 Public Repositories:
 * [Party Bucket](https://github.com/k3rn3ls4nd3rs/partybucket) - A bucket for sharing (knowledge share)
